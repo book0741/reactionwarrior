@@ -13,7 +13,10 @@ Ranking system
 - C++
 
 # HOW TO RUN
-- Download the "main.exe" file.
+- Download the whole folder.
+- Open in Visual Studio.
+- Go to "main.cpp" and run it.
+- Should be running in your terminal tab.
 - Select a difficulty.
 - Try to enter each phrase as quickly as you can.
 
