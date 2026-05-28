@@ -1,5 +1,5 @@
 [README.txt](https://github.com/user-attachments/files/28371108/README.txt)
-# Reaction Warrior (cleaner version in Code form, not this form)
+# Reaction Warrior (cleaner version in Code tab, not this tab)
 It's a game built with C++ that works in your terminal that tests your reaction speed when you see a letter and a number pop up on your screen. (work in progress)
 
 ## Features
